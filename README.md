@@ -50,7 +50,7 @@ To use the Typing Test application, follow these steps:
 ## Contributors
 
 - Tom Tito
-- Lim Tichchieve
+- Lim Techchhiv
 - Ty Sopheaktra
 ## License
 
