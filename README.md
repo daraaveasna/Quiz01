@@ -1,4 +1,4 @@
-# Quiz01
+# <p align="center"> Quiz01 <text>
 
 ## Typing Test Application
 
