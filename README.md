@@ -1,6 +1,6 @@
-# <p align="center"> Quiz01 <text>
+# Quiz01 
 
-## Typing Test Application
+## Typing Test Application 
 
 >This is a simple Typing Test application that allows users to practice typing and improve their typing speed.
 
